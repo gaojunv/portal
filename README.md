@@ -1,13 +1,13 @@
 | 版本 | 修订人 | 修订时间 | 修订内容   |
 | ---- | ------ | -------- | ---------- |
-| 1.0  | 艾文霄 | 2021-03  | 第一期内容 |
+| 1.0  |  ddd  | 2021-03  | 第一期内容 |
 |      |        |          |            |
 |      |        |          |            |
 |      |        |          |            |
 
 [TOC]
  <font color="red">**新增菜单**：AMS，单独的主菜单</font>
-# Portal
+#Portal
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.
 
